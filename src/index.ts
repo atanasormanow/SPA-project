@@ -1,5 +1,6 @@
 import { OpenStreetMapProvider } from 'leaflet-geosearch';
 import leaflet from 'leaflet';
+import * as data from '../static/data.json';
 
 var map = leaflet.map('mapid').setView([42.698334, 23.318841], 13);
 const provider = new OpenStreetMapProvider();
