@@ -11,7 +11,7 @@ module.exports = {
   devtool: 'inline-source-map',
   devServer: {
     contentBase: path.join(__dirname + 'dist'),
-    port: 3000,
+    port: 3210,
     headers: {
         'Access-Control-Allow-Origin': '*',
     }
