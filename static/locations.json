@@ -22,7 +22,7 @@
       "display_name": "Рено, 5, Янко Комитов, Бургас, 8005, България",
       "class": "shop",
       "type": "car",
-      "importance": 0.31100000000000005,
+      "importance": 0.42099999999999993,
       "icon": "https://nominatim.openstreetmap.org/images/mapicons/shopping_car.p.20.png"
     },
     {
@@ -41,7 +41,7 @@
       "display_name": "Нисан, 5, Янко Комитов, Бургас, 8005, България",
       "class": "shop",
       "type": "car",
-      "importance": 0.31100000000000005,
+      "importance": 0.42099999999999993,
       "icon": "https://nominatim.openstreetmap.org/images/mapicons/shopping_car.p.20.png"
     },
     {
@@ -60,7 +60,7 @@
       "display_name": "Омникар Ауто, 5, Янко Комитов, Бургас, 8000, България",
       "class": "building",
       "type": "yes",
-      "importance": 0.31100000000000005
+      "importance": 0.42099999999999993
     }
   ],
   [],
@@ -124,7 +124,7 @@
       "display_name": "Индустриална, кв. Акациите, Бургас, 8002, България",
       "class": "highway",
       "type": "secondary",
-      "importance": 0.31
+      "importance": 0.42000000000000004
     },
     {
       "place_id": 92176925,
@@ -142,7 +142,7 @@
       "display_name": "Индустриална, Бургас, 8002, България",
       "class": "highway",
       "type": "secondary",
-      "importance": 0.21
+      "importance": 0.32
     }
   ],
   [],
@@ -166,125 +166,13 @@
       "display_name": "Бургас Плаза, Транспортна, Бургас, 8010, България",
       "class": "shop",
       "type": "mall",
-      "importance": 0.22100000000000003
+      "importance": 0.33100000000000007
     }
   ],
   [],
   [],
   [],
-  [
-    {
-      "place_id": 21377015,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 2178229641,
-      "boundingbox": [
-        "42.6493195",
-        "42.6893195",
-        "23.3280022",
-        "23.3680022"
-      ],
-      "lat": "42.6693195",
-      "lon": "23.3480022",
-      "display_name": "ж.к. Изгрев, Изгрев, Столична, София-град, 1172, България",
-      "class": "place",
-      "type": "suburb",
-      "importance": 0.6029751691113914,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
-    },
-    {
-      "place_id": 69133396,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 5950031624,
-      "boundingbox": [
-        "43.7223538",
-        "43.7623538",
-        "27.3959457",
-        "27.4359457"
-      ],
-      "lat": "43.7423538",
-      "lon": "27.4159457",
-      "display_name": "ж.к. Изгрев, Тервел, Добрич, 9450, България",
-      "class": "place",
-      "type": "suburb",
-      "importance": 0.55,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
-    },
-    {
-      "place_id": 73045715,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 6430470180,
-      "boundingbox": [
-        "43.3952724",
-        "43.3953724",
-        "23.2349664",
-        "23.2350664"
-      ],
-      "lat": "43.3953224",
-      "lon": "23.2350164",
-      "display_name": "ж.к. Изгрев, Монтана, 3400, България",
-      "class": "place",
-      "type": "neighbourhood",
-      "importance": 0.5
-    },
-    {
-      "place_id": 67679897,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 5818728222,
-      "boundingbox": [
-        "43.2354782",
-        "43.2355782",
-        "23.1391195",
-        "23.1392195"
-      ],
-      "lat": "43.2355282",
-      "lon": "23.1391695",
-      "display_name": "ж.к. Изгрев, Берковица, Монтана, България",
-      "class": "place",
-      "type": "neighbourhood",
-      "importance": 0.5
-    },
-    {
-      "place_id": 63550380,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 5347788867,
-      "boundingbox": [
-        "42.1781126",
-        "42.1782126",
-        "26.5814953",
-        "26.5815953"
-      ],
-      "lat": "42.1781626",
-      "lon": "26.5815453",
-      "display_name": "ж.к. Изгрев, Елхово, Ямбол, 8700, България",
-      "class": "place",
-      "type": "neighbourhood",
-      "importance": 0.5
-    },
-    {
-      "place_id": 24328397,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 2429259080,
-      "boundingbox": [
-        "41.915482",
-        "41.955482",
-        "25.5521011",
-        "25.5921011"
-      ],
-      "lat": "41.935482",
-      "lon": "25.5721011",
-      "display_name": "Ж.К. Изгрев, Хасково, 3, България",
-      "class": "place",
-      "type": "suburb",
-      "importance": 0.45,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_village.p.20.png"
-    }
-  ],
+  [],
   [],
   [],
   [],
@@ -309,126 +197,12 @@
       "display_name": "Хотел \"Парк\", 24-ти черноморски пехотен полк, жк Лазур, Бургас, 8001, България",
       "class": "tourism",
       "type": "hotel",
-      "importance": 0.101,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/accommodation_hotel2.p.20.png"
-    },
-    {
-      "place_id": 19566502,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 1943453177,
-      "boundingbox": [
-        "43.6188788",
-        "43.6189788",
-        "20.892961",
-        "20.893061"
-      ],
-      "lat": "43.6189288",
-      "lon": "20.893011",
-      "display_name": "Хотел Парк, 21, Врњачка, Солидарност, Врњачка Бања, Општина Врњачка Бања, Рашки управни округ, Централна Србија, 36210, Србија (Serbia)",
-      "class": "tourism",
-      "type": "hotel",
-      "importance": 0.101,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/accommodation_hotel2.p.20.png"
-    },
-    {
-      "place_id": 21955829,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 2193863685,
-      "boundingbox": [
-        "45.673286",
-        "45.673386",
-        "18.9771009",
-        "18.9772009"
-      ],
-      "lat": "45.673336",
-      "lon": "18.9771509",
-      "display_name": "Хотел Парк, Српских владара, Апатин, Општина Апатин, Западнобачки управни округ, Војводина, 25260, Србија (Serbia)",
-      "class": "tourism",
-      "type": "hotel",
-      "importance": 0.101,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/accommodation_hotel2.p.20.png"
-    },
-    {
-      "place_id": 96887522,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 43734381,
-      "boundingbox": [
-        "45.2518962",
-        "45.2532704",
-        "19.8263164",
-        "19.8273169"
-      ],
-      "lat": "45.2525287",
-      "lon": "19.826854838586314",
-      "display_name": "Hotel Park, 35, Новосадског Сајма, Сајмиште, Нови Сад, Град Нови Сад, Јужнобачки управни округ, Војводина, 21000, Србија (Serbia)",
-      "class": "tourism",
-      "type": "hotel",
-      "importance": 0.001,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/accommodation_hotel2.p.20.png"
-    },
-    {
-      "place_id": 5755676,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 597370131,
-      "boundingbox": [
-        "42.7263558",
-        "42.7264558",
-        "20.4749834",
-        "20.4750834"
-      ],
-      "lat": "42.7264058",
-      "lon": "20.4750334",
-      "display_name": "Hotel Park, Podguri, Кривача, Ново Село, Komuna e Istogut / Opština Istok, 31020, Kosova",
-      "class": "tourism",
-      "type": "hotel",
-      "importance": 0.001,
+      "importance": 0.21100000000000002,
       "icon": "https://nominatim.openstreetmap.org/images/mapicons/accommodation_hotel2.p.20.png"
     }
   ],
-  [
-    {
-      "place_id": 10312266,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 968543563,
-      "boundingbox": [
-        "42.4788712",
-        "42.4789712",
-        "26.5248493",
-        "26.5249493"
-      ],
-      "lat": "42.4789212",
-      "lon": "26.5248993",
-      "display_name": "ж.к. Зорница, кв. Аврен, Ямбол, 8602, България",
-      "class": "place",
-      "type": "neighbourhood",
-      "importance": 0.5
-    }
-  ],
-  [
-    {
-      "place_id": 10312266,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 968543563,
-      "boundingbox": [
-        "42.4788712",
-        "42.4789712",
-        "26.5248493",
-        "26.5249493"
-      ],
-      "lat": "42.4789212",
-      "lon": "26.5248993",
-      "display_name": "ж.к. Зорница, кв. Аврен, Ямбол, 8602, България",
-      "class": "place",
-      "type": "neighbourhood",
-      "importance": 0.5
-    }
-  ],
+  [],
+  [],
   [],
   [
     {
@@ -447,27 +221,7 @@
       "display_name": "69, Васил Петлешков, жк Лазур, Бургас, 8001, България",
       "class": "building",
       "type": "yes",
-      "importance": 0.21100000000000002
-    }
-  ],
-  [
-    {
-      "place_id": 22163306,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 2210961356,
-      "boundingbox": [
-        "42.7552615",
-        "42.7553615",
-        "23.2104783",
-        "23.2105783"
-      ],
-      "lat": "42.7553115",
-      "lon": "23.2105283",
-      "display_name": "ж.к. Лазур, ж.к. Жилища, Гурмазово, Божурище, Софийска, 2227, България",
-      "class": "place",
-      "type": "neighbourhood",
-      "importance": 0.5
+      "importance": 0.32100000000000006
     }
   ],
   [],
@@ -491,96 +245,25 @@
   [],
   [],
   [],
+  [],
   [
     {
-      "place_id": 148235053,
+      "place_id": 174417691,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 249760914,
+      "osm_id": 380879308,
       "boundingbox": [
-        "43.9390002",
-        "43.9390725",
-        "27.2889878",
-        "27.2902835"
+        "42.4913341",
+        "42.4916944",
+        "27.471699",
+        "27.4719174"
       ],
-      "lat": "43.9390002",
-      "lon": "27.2902835",
-      "display_name": "ул. Цар Петър, Алфатар, Силистра, България",
+      "lat": "42.4913944",
+      "lon": "27.4718788",
+      "display_name": "Цар Петър, ЦГЧ, Бургас, 8000, България",
       "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 132036907,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 194245781,
-      "boundingbox": [
-        "43.1647493",
-        "43.1657525",
-        "26.8078435",
-        "26.8088827"
-      ],
-      "lat": "43.1656194",
-      "lon": "26.8078435",
-      "display_name": "ул.Цар Петър, Велики Преслав, Шумен, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 148661752,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 257626726,
-      "boundingbox": [
-        "43.9959773",
-        "43.9982217",
-        "26.825769",
-        "26.830545"
-      ],
-      "lat": "43.9969706",
-      "lon": "26.8284604",
-      "display_name": "ул. \"Цар Петър\", Зафирово, Главиница, Силистра, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 175856910,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 392273918,
-      "boundingbox": [
-        "43.8428623",
-        "43.8428774",
-        "25.9582453",
-        "25.9585596"
-      ],
-      "lat": "43.8428678",
-      "lon": "25.9583897",
-      "display_name": "ул. Цар Петър, жк. Гарата, ж. к. Хъшове, Русе, 7000, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.375
-    },
-    {
-      "place_id": 155907803,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 284410001,
-      "boundingbox": [
-        "43.9389303",
-        "43.9390002",
-        "27.2902835",
-        "27.2918826"
-      ],
-      "lat": "43.9389303",
-      "lon": "27.2914839",
-      "display_name": "ул. Цар Петър, Алфатар, Силистра, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.375
+      "type": "secondary",
+      "importance": 0.41000000000000003
     }
   ],
   [],
@@ -601,552 +284,155 @@
       "display_name": "пл. Баба Ганка, Славянска, ЦГЧ, Бургас, 8001, България",
       "class": "junction",
       "type": "yes",
-      "importance": 0.401
+      "importance": 0.511
     }
   ],
   [],
   [
     {
-      "place_id": 183709246,
+      "place_id": 98759569,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 424007177,
+      "osm_id": 41283943,
       "boundingbox": [
-        "43.1387494",
-        "43.141152",
-        "24.7106121",
-        "24.7107438"
+        "42.5559997",
+        "42.5571297",
+        "27.6419145",
+        "27.6424583"
       ],
-      "lat": "43.1398395",
-      "lon": "24.7106833",
-      "display_name": "Ул. Цар Асен, ж.к. Червен бряг, Ловеч, 5500, България",
+      "lat": "42.5559997",
+      "lon": "27.6419145",
+      "display_name": "Цар Асен, Стар град, Поморие, Бургас, 8200, България",
       "class": "highway",
       "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 139750431,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 217952482,
-      "boundingbox": [
-        "43.2336544",
-        "43.2394268",
-        "23.1315686",
-        "23.1328294"
-      ],
-      "lat": "43.2363392",
-      "lon": "23.1323992",
-      "display_name": "ул. Цар Асен, ж.к. Изгрев, Берковица, Монтана, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 128481546,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 175858912,
-      "boundingbox": [
-        "44.0009269",
-        "44.0023762",
-        "26.4628686",
-        "26.464523"
-      ],
-      "lat": "44.001643",
-      "lon": "26.4637376",
-      "display_name": "ул. \"Цар Асен\", Нова Черна, Тутракан, Силистра, 7645, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 127720891,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 179341354,
-      "boundingbox": [
-        "43.3419936",
-        "43.346106",
-        "26.2187473",
-        "26.2223908"
-      ],
-      "lat": "43.3434921",
-      "lon": "26.2210863",
-      "display_name": "ул. Цар Асен, Попово, Търговище, 7800, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 167650220,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 351973464,
-      "boundingbox": [
-        "43.4453649",
-        "43.4466566",
-        "27.2392671",
-        "27.2406887"
-      ],
-      "lat": "43.4464164",
-      "lon": "27.2406297",
-      "display_name": "ул. Цар Асен, Мировци, Нови пазар, Шумен, 9921, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 171938776,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 368142688,
-      "boundingbox": [
-        "43.8446416",
-        "43.8454636",
-        "25.9590331",
-        "25.9592243"
-      ],
-      "lat": "43.8450421",
-      "lon": "25.9591786",
-      "display_name": "ул. цар Асен, жк. Гарата, ж. к. Хъшове, Русе, 7000, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.27499999999999997
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 140494368,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 220546372,
-      "boundingbox": [
-        "42.2913488",
-        "42.2927938",
-        "23.1448071",
-        "23.1462019"
-      ],
-      "lat": "42.2920702",
-      "lon": "23.1455111",
-      "display_name": "Ст. Караджа, Яхиново, Дупница, Кюстендил, 2604, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 135850528,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 203258201,
-      "boundingbox": [
-        "43.3395018",
-        "43.3405402",
-        "27.1903292",
-        "27.195577"
-      ],
-      "lat": "43.3399522",
-      "lon": "27.1932208",
-      "display_name": "Ст.Караджа, Нови пазар, Шумен, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 90397242,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 24955504,
-      "boundingbox": [
-        "42.716599",
-        "42.718291",
-        "23.2211082",
-        "23.2211696"
-      ],
-      "lat": "42.716599",
-      "lon": "23.2211696",
-      "display_name": "Ст. Караджа, кв. Филиповци, район Люлин, Столична, София-град, 1390, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 153862108,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 277820820,
-      "boundingbox": [
-        "42.0430676",
-        "42.0444298",
-        "24.1294907",
-        "24.1298787"
-      ],
-      "lat": "42.0439075",
-      "lon": "24.1298787",
-      "display_name": "Ст.Караджа, Дорково, Ракитово, Пазарджик, 4644, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 166247208,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 348029897,
-      "boundingbox": [
-        "42.6454818",
-        "42.6465206",
-        "26.3848553",
-        "26.3899735"
-      ],
-      "lat": "42.646041",
-      "lon": "26.3872999",
-      "display_name": "ул. Цар Калоян, кв. Дебелата кория, Сливен, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 93228397,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 27910836,
-      "boundingbox": [
-        "44.1638065",
-        "44.1651333",
-        "22.7816672",
-        "22.7842418"
-      ],
-      "lat": "44.164782",
-      "lon": "22.7832998",
-      "display_name": "ул. Цар Калоян, Ново село, Ново Село, Видин, 3784, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 202278957,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 549036906,
-      "boundingbox": [
-        "42.7753352",
-        "42.7754654",
-        "23.1454517",
-        "23.1476191"
-      ],
-      "lat": "42.7754601",
-      "lon": "23.1472734",
-      "display_name": "ул. Цар Калоян, Черна бара, Пролеша, Божурище, Софийска, 2229, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 169831007,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 351968511,
-      "boundingbox": [
-        "43.4469111",
-        "43.4483171",
-        "27.2416427",
-        "27.2428291"
-      ],
-      "lat": "43.4479899",
-      "lon": "27.242636",
-      "display_name": "ул. Цар Калоян, Мировци, Нови пазар, Шумен, 9921, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 164342260,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 328797269,
-      "boundingbox": [
-        "43.5524737",
-        "43.5542762",
-        "26.308284",
-        "26.308631"
-      ],
-      "lat": "43.5534229",
-      "lon": "26.3082876",
-      "display_name": "ул. Цар Калоян, Езерче, Цар Калоян, Разград, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 159735146,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 304859620,
-      "boundingbox": [
-        "43.5705786",
-        "43.5737085",
-        "26.1969949",
-        "26.1976572"
-      ],
-      "lat": "43.5723546",
-      "lon": "26.1973152",
-      "display_name": "ул. Цар Калоян, Костанденец, Цар Калоян, Разград, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 160230878,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 308617930,
-      "boundingbox": [
-        "42.4395317",
-        "42.4410974",
-        "24.7080213",
-        "24.7102207"
-      ],
-      "lat": "42.4399838",
-      "lon": "24.7085675",
-      "display_name": "ул.Цар Калоян, кв. Миромир, Черничево, Хисаря, Пловдив, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 110522062,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 110051725,
-      "boundingbox": [
-        "42.699053",
-        "42.699054",
-        "25.905043",
-        "25.9051832"
-      ],
-      "lat": "42.699053",
-      "lon": "25.9051832",
-      "display_name": "улица Цар Калоян, Твърдица, Сливен, 8890, България",
-      "class": "highway",
-      "type": "footway",
-      "importance": 0.375
+      "importance": 0.41000000000000003
     }
   ],
   [],
   [],
+  [],
   [
     {
-      "place_id": 98921450,
+      "place_id": 65785128,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 51075332,
+      "osm_type": "node",
+      "osm_id": 5629372695,
       "boundingbox": [
-        "43.3499171",
-        "43.3506079",
-        "26.224005",
-        "26.226443"
+        "42.4930719",
+        "42.4931719",
+        "27.463705",
+        "27.463805"
       ],
-      "lat": "43.350572",
-      "lon": "26.225378",
-      "display_name": "ул. Левски, Попово, Търговище, 7800, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
+      "lat": "42.4931219",
+      "lon": "27.463755",
+      "display_name": "Работно облекло, 24, Цар Калоян, жк Възраждане, Бургас, 8000, България",
+      "class": "shop",
+      "type": "clothes",
+      "importance": 0.42099999999999993,
+      "icon": "https://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
     },
     {
-      "place_id": 122846053,
+      "place_id": 97383425,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 163168801,
+      "osm_id": 40267447,
       "boundingbox": [
-        "63.4219303",
-        "63.4257309",
-        "47.9577575",
-        "47.9602335"
+        "42.4928667",
+        "42.4934311",
+        "27.4635588",
+        "27.4638884"
       ],
-      "lat": "63.4239621",
-      "lon": "47.9587276",
-      "display_name": "улица Левски, Благоево, Удорский район, Республика Коми, Северо-Западный федеральный округ, 169250, Россия",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
+      "lat": "42.4931489",
+      "lon": "27.4637236",
+      "display_name": "24, Цар Калоян, жк Възраждане, Бургас, 8000, България",
+      "class": "building",
+      "type": "yes",
+      "importance": 0.42099999999999993
+    },
+    {
+      "place_id": 41341428,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3103526845,
+      "boundingbox": [
+        "42.4933366",
+        "42.4934366",
+        "27.4634863",
+        "27.4635863"
+      ],
+      "lat": "42.4933866",
+      "lon": "27.4635363",
+      "display_name": "24-4, Цар Калоян, жк Възраждане, Бургас, 8000, България",
+      "class": "place",
+      "type": "house",
+      "importance": 0.411
+    },
+    {
+      "place_id": 41332355,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 3103526844,
+      "boundingbox": [
+        "42.4928284",
+        "42.4929284",
+        "27.4636659",
+        "27.4637659"
+      ],
+      "lat": "42.4928784",
+      "lon": "27.4637159",
+      "display_name": "24-1, Цар Калоян, жк Възраждане, Бургас, 8000, България",
+      "class": "place",
+      "type": "house",
+      "importance": 0.411
     }
   ],
   [],
   [],
   [],
   [],
+  [],
+  [],
+  [],
   [
     {
-      "place_id": 225928485,
+      "place_id": 165624880,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 703210640,
+      "osm_id": 337635140,
       "boundingbox": [
-        "43.2320176",
-        "43.2321433",
-        "23.1500724",
-        "23.1503193"
+        "42.493612",
+        "42.4963618",
+        "27.4712452",
+        "27.4725169"
       ],
-      "lat": "43.2320176",
-      "lon": "23.1503193",
-      "display_name": "ул. Александровска, кв. Раковица, Берковица, Монтана, България",
-      "class": "highway",
-      "type": "tertiary",
-      "importance": 0.3
-    },
-    {
-      "place_id": 223119642,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 703210639,
-      "boundingbox": [
-        "43.2321433",
-        "43.2339667",
-        "23.141831",
-        "23.1500724"
-      ],
-      "lat": "43.2338639",
-      "lon": "23.1464784",
-      "display_name": "ул. Александровска, ж.к. Изгрев, Берковица, Монтана, България",
-      "class": "highway",
-      "type": "tertiary",
-      "importance": 0.3
-    },
-    {
-      "place_id": 226709904,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 703241074,
-      "boundingbox": [
-        "43.234001",
-        "43.2340497",
-        "23.1406905",
-        "23.1409841"
-      ],
-      "lat": "43.2340152",
-      "lon": "23.140887",
-      "display_name": "ул. Александровска, ж.к. Изгрев, Берковица, Монтана, България",
-      "class": "highway",
-      "type": "unclassified",
-      "importance": 0.3
-    },
-    {
-      "place_id": 204444282,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 580809661,
-      "boundingbox": [
-        "43.2370276",
-        "43.2370656",
-        "23.1251135",
-        "23.1253106"
-      ],
-      "lat": "43.2370276",
-      "lon": "23.1253106",
-      "display_name": "ул. Александровска, ж.к. Стара Планина, Берковица, Монтана, България",
+      "lat": "42.4950693",
+      "lon": "27.471849222634468",
+      "display_name": "Александровска, ЦГЧ, Бургас, България",
       "class": "highway",
       "type": "pedestrian",
-      "importance": 0.3
+      "importance": 0.32
     },
     {
-      "place_id": 207623093,
+      "place_id": 92217371,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 583201114,
+      "osm_id": 26266005,
       "boundingbox": [
-        "43.8451876",
-        "43.8453222",
-        "25.9491392",
-        "25.9491948"
+        "42.4912933",
+        "42.4936256",
+        "27.4724263",
+        "27.4733815"
       ],
-      "lat": "43.8452478",
-      "lon": "25.9491615",
-      "display_name": "ул. Александровска, жк. Гарата, Старият център, Русе, 7000, България",
+      "lat": "42.4923486",
+      "lon": "27.4729536",
+      "display_name": "Александровска, ЦГЧ, Бургас, 8001, България",
       "class": "highway",
-      "type": "service",
-      "importance": 0.27499999999999997
-    },
-    {
-      "place_id": 208217934,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 589662582,
-      "boundingbox": [
-        "43.8463",
-        "43.8463233",
-        "25.9499045",
-        "25.9499201"
-      ],
-      "lat": "43.8463233",
-      "lon": "25.9499201",
-      "display_name": "ул. Александровска, жк. Гарата, Старият център, Русе, 7000, България",
-      "class": "highway",
-      "type": "footway",
-      "importance": 0.27499999999999997
-    },
-    {
-      "place_id": 226609877,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 703210635,
-      "boundingbox": [
-        "43.233969",
-        "43.234001",
-        "23.1409841",
-        "23.1415995"
-      ],
-      "lat": "43.2339725",
-      "lon": "23.1413083",
-      "display_name": "ул. Александровска, ж.к. Изгрев, Берковица, Монтана, България",
-      "class": "highway",
-      "type": "tertiary_link",
-      "importance": 0.27499999999999997
+      "type": "pedestrian",
+      "importance": 0.32
     }
   ],
   [],
   [
-    {
-      "place_id": 96793952,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 38834105,
-      "boundingbox": [
-        "41.3904562",
-        "41.3910519",
-        "23.2039037",
-        "23.2054644"
-      ],
-      "lat": "41.3906527",
-      "lon": "23.2046664",
-      "display_name": "ул.Македония, ж.к. Самуил, Петрич, Благоевград, 2850, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 203352951,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 549031239,
-      "boundingbox": [
-        "44.1569559",
-        "44.1582392",
-        "22.7831032",
-        "22.7852791"
-      ],
-      "lat": "44.1577505",
-      "lon": "22.7841872",
-      "display_name": "ул. Македония, Ново село, Ново Село, Видин, 3784, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
     {
       "place_id": 97432374,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1163,25 +449,7 @@
       "display_name": "ул. Македония, ЦГЧ, Бургас, 8001, България",
       "class": "highway",
       "type": "footway",
-      "importance": 0.27499999999999997
-    },
-    {
-      "place_id": 91372907,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 24254093,
-      "boundingbox": [
-        "43.8321832",
-        "43.8327719",
-        "25.950791",
-        "25.9517433"
-      ],
-      "lat": "43.8324156",
-      "lon": "25.9515404",
-      "display_name": "ул. Македония, жк. Гарата, жк. Мидия-Енос, Русе, 7001, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.27499999999999997
+      "importance": 0.385
     }
   ],
   [],
@@ -1189,40 +457,40 @@
   [],
   [
     {
-      "place_id": 140580871,
+      "place_id": 97333296,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 217954913,
+      "osm_id": 40558062,
       "boundingbox": [
-        "43.2335643",
-        "43.2349049",
-        "23.123226",
-        "23.1240683"
+        "42.491791",
+        "42.4936534",
+        "27.4759389",
+        "27.4766765"
       ],
-      "lat": "43.234264",
-      "lon": "23.1236287",
-      "display_name": "ул. Антим I, ж.к. Стара Планина, Берковица, Монтана, България",
+      "lat": "42.4929687",
+      "lon": "27.4762101",
+      "display_name": "Антим I, ЦГЧ, Бургас, 8001, България",
       "class": "highway",
       "type": "residential",
-      "importance": 0.4
+      "importance": 0.41000000000000003
     },
     {
-      "place_id": 174802222,
+      "place_id": 96863817,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 387123544,
+      "osm_id": 40558063,
       "boundingbox": [
-        "42.0672675",
-        "42.0680475",
-        "25.5136783",
-        "25.5191502"
+        "42.4916334",
+        "42.491791",
+        "27.4766765",
+        "27.4767486"
       ],
-      "lat": "42.0675752",
-      "lon": "25.5164113",
-      "display_name": "ул.Антим I, кв.ЧЕРНОКОНЕВО, Крум, Димитровград, Хасково, България",
+      "lat": "42.4916334",
+      "lon": "27.4767486",
+      "display_name": "Антим I, ЦГЧ, Бургас, 8001, България",
       "class": "highway",
-      "type": "residential",
-      "importance": 0.4
+      "type": "footway",
+      "importance": 0.385
     }
   ],
   [],
@@ -1234,317 +502,65 @@
   [],
   [
     {
-      "place_id": 161438878,
+      "place_id": 225844197,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 313300488,
+      "osm_id": 707284069,
       "boundingbox": [
-        "41.9462997",
-        "41.9466711",
-        "24.2257375",
-        "24.2257514"
+        "42.4944722",
+        "42.4957393",
+        "27.4683333",
+        "27.4687788"
       ],
-      "lat": "41.9466711",
-      "lon": "24.2257514",
-      "display_name": "ул.Шейново, Батак, Пазарджик, България",
+      "lat": "42.4951061",
+      "lon": "27.4685559",
+      "display_name": "Шейново, жк Възраждане, Бургас, 8000, България",
       "class": "highway",
       "type": "residential",
-      "importance": 0.19999999999999998
+      "importance": 0.32
     },
     {
-      "place_id": 153496941,
+      "place_id": 177738208,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 281836205,
+      "osm_id": 391187831,
       "boundingbox": [
-        "43.2389969",
-        "43.2398861",
-        "23.1278794",
-        "23.1285661"
+        "42.4942145",
+        "42.4942426",
+        "27.4687879",
+        "27.4688161"
       ],
-      "lat": "43.2393187",
-      "lon": "23.1282577",
-      "display_name": "ул. Шейново, ж.к. Изгрев, Берковица, Монтана, България",
+      "lat": "42.4942426",
+      "lon": "27.4687879",
+      "display_name": "Шейново, жк Възраждане, Бургас, 8000, България",
       "class": "highway",
-      "type": "residential",
-      "importance": 0.19999999999999998
-    },
-    {
-      "place_id": 132458662,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 199159586,
-      "boundingbox": [
-        "43.2039951",
-        "43.2077522",
-        "24.1543794",
-        "24.1573141"
-      ],
-      "lat": "43.2058907",
-      "lon": "24.1561756",
-      "display_name": "ул. Шейново, Луковит, Ловеч, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.19999999999999998
-    },
-    {
-      "place_id": 146158830,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 242842822,
-      "boundingbox": [
-        "42.9926336",
-        "42.995937",
-        "25.6288785",
-        "25.6369403"
-      ],
-      "lat": "42.9933132",
-      "lon": "25.6330344",
-      "display_name": "ул.Шейново, Килифарево, Велико Търново, 5055, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.19999999999999998
-    },
-    {
-      "place_id": 143015011,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 235824214,
-      "boundingbox": [
-        "43.5535509",
-        "43.5540663",
-        "26.305464",
-        "26.3067829"
-      ],
-      "lat": "43.553798",
-      "lon": "26.3060936",
-      "display_name": "ул. Шейново, Езерче, Цар Калоян, Разград, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.19999999999999998
+      "type": "pedestrian",
+      "importance": 0.32
     }
   ],
   [],
   [
     {
-      "place_id": 148235053,
+      "place_id": 174417691,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 249760914,
+      "osm_id": 380879308,
       "boundingbox": [
-        "43.9390002",
-        "43.9390725",
-        "27.2889878",
-        "27.2902835"
+        "42.4913341",
+        "42.4916944",
+        "27.471699",
+        "27.4719174"
       ],
-      "lat": "43.9390002",
-      "lon": "27.2902835",
-      "display_name": "ул. Цар Петър, Алфатар, Силистра, България",
+      "lat": "42.4913944",
+      "lon": "27.4718788",
+      "display_name": "Цар Петър, ЦГЧ, Бургас, 8000, България",
       "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 132036907,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 194245781,
-      "boundingbox": [
-        "43.1647493",
-        "43.1657525",
-        "26.8078435",
-        "26.8088827"
-      ],
-      "lat": "43.1656194",
-      "lon": "26.8078435",
-      "display_name": "ул.Цар Петър, Велики Преслав, Шумен, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 148661752,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 257626726,
-      "boundingbox": [
-        "43.9959773",
-        "43.9982217",
-        "26.825769",
-        "26.830545"
-      ],
-      "lat": "43.9969706",
-      "lon": "26.8284604",
-      "display_name": "ул. \"Цар Петър\", Зафирово, Главиница, Силистра, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 175856910,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 392273918,
-      "boundingbox": [
-        "43.8428623",
-        "43.8428774",
-        "25.9582453",
-        "25.9585596"
-      ],
-      "lat": "43.8428678",
-      "lon": "25.9583897",
-      "display_name": "ул. Цар Петър, жк. Гарата, ж. к. Хъшове, Русе, 7000, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.375
-    },
-    {
-      "place_id": 155907803,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 284410001,
-      "boundingbox": [
-        "43.9389303",
-        "43.9390002",
-        "27.2902835",
-        "27.2918826"
-      ],
-      "lat": "43.9389303",
-      "lon": "27.2914839",
-      "display_name": "ул. Цар Петър, Алфатар, Силистра, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.375
+      "type": "secondary",
+      "importance": 0.41000000000000003
     }
   ],
   [],
   [
-    {
-      "place_id": 186086588,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 434714977,
-      "boundingbox": [
-        "42.0981856",
-        "42.1007091",
-        "27.9436224",
-        "27.945693"
-      ],
-      "lat": "42.099477199999995",
-      "lon": "27.943921943092523",
-      "display_name": "Пристанище Ахтопол, Царево, Бургас, България",
-      "class": "waterway",
-      "type": "dock",
-      "importance": 0.535
-    },
-    {
-      "place_id": 203338417,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 548962009,
-      "boundingbox": [
-        "42.4483672",
-        "42.4497091",
-        "27.6398595",
-        "27.6413247"
-      ],
-      "lat": "42.4490317",
-      "lon": "27.640925447157194",
-      "display_name": "Пристанище Черноморец, Свети Никола, Созопол, Бургас, 8142, България",
-      "class": "landuse",
-      "type": "commercial",
-      "importance": 0.41
-    },
-    {
-      "place_id": 149667601,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 254635348,
-      "boundingbox": [
-        "42.635779",
-        "42.6375423",
-        "27.6762686",
-        "27.6771401"
-      ],
-      "lat": "42.6362654",
-      "lon": "27.676710718336786",
-      "display_name": "Рибарско пристанище Равда, кв. Аурелия, Равда, Несебър, Бургас, 8238, България",
-      "class": "landuse",
-      "type": "harbour",
-      "importance": 0.30999999999999994
-    },
-    {
-      "place_id": 138482854,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 221183331,
-      "boundingbox": [
-        "42.4486284",
-        "42.4497091",
-        "27.6398664",
-        "27.6413247"
-      ],
-      "lat": "42.44916655",
-      "lon": "27.640550726056702",
-      "display_name": "Fisherman's Marina, Димо Николов, Пристанище Черноморец, Свети Никола, Черноморец, Созопол, Бургас, 8142, България",
-      "class": "leisure",
-      "type": "marina",
-      "importance": 0.21100000000000002
-    },
-    {
-      "place_id": 47397584,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 3701037502,
-      "boundingbox": [
-        "42.5541469",
-        "42.5542469",
-        "27.5154128",
-        "27.5155128"
-      ],
-      "lat": "42.5541969",
-      "lon": "27.5154628",
-      "display_name": "Рибарско пристанище Сарафово, Черно море, кв. Сарафово, Бургас, 8016, България",
-      "class": "leisure",
-      "type": "marina",
-      "importance": 0.11100000000000002
-    },
-    {
-      "place_id": 133984678,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 204366100,
-      "boundingbox": [
-        "42.6572245",
-        "42.6589393",
-        "27.7248729",
-        "27.7267373"
-      ],
-      "lat": "42.658093199999996",
-      "lon": "27.72574213015225",
-      "display_name": "Яхтено пристанище, Любен Каравелов, кв. Христо Кудев, Несебър, Бургас, 8230, България",
-      "class": "leisure",
-      "type": "marina",
-      "importance": 0.11100000000000002
-    },
-    {
-      "place_id": 236337253,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "relation",
-      "osm_id": 8496244,
-      "boundingbox": [
-        "42.4216898",
-        "42.4259661",
-        "27.6910817",
-        "27.6942158"
-      ],
-      "lat": "42.42380745",
-      "lon": "27.69253209751904",
-      "display_name": "Яхтено пристанище, Крайбрежна, Свети Никола, Созопол, Бургас, 8130, България",
-      "class": "leisure",
-      "type": "marina",
-      "importance": 0.11100000000000002
-    },
     {
       "place_id": 16416412,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1561,301 +577,30 @@
       "display_name": "Бургас - рибното пристанище, Осогово, кв. Победа, Бургас, 8120, България",
       "class": "man_made",
       "type": "lighthouse",
-      "importance": 0.11100000000000002
+      "importance": 0.22100000000000003
     }
   ],
   [
     {
-      "place_id": 660457,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 247807315,
-      "boundingbox": [
-        "-24.0031724",
-        "-23.6831724",
-        "151.096132",
-        "151.416132"
-      ],
-      "lat": "-23.8431724",
-      "lon": "151.256132",
-      "display_name": "Gladstone, Queensland, 4680, Australia",
-      "class": "place",
-      "type": "city",
-      "importance": 0.5513445823611745,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_place_city.p.20.png"
-    },
-    {
-      "place_id": 186700756,
+      "place_id": 96690370,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 461439095,
+      "osm_id": 41284020,
       "boundingbox": [
-        "42.5020123",
-        "42.5028983",
-        "24.7040403",
-        "24.7069167"
+        "42.5578145",
+        "42.5584601",
+        "27.6391467",
+        "27.6412711"
       ],
-      "lat": "42.5026292",
-      "lon": "24.7060386",
-      "display_name": "Гладстон, ж.к. Орфей, кв. Веригово, Хисаря, Пловдив, 4180, България",
+      "lat": "42.5582422",
+      "lon": "27.6400932",
+      "display_name": "Гладстон, Стар град, Поморие, Бургас, 8200, България",
       "class": "highway",
       "type": "residential",
-      "importance": 0.31
-    },
-    {
-      "place_id": 122562934,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 159538254,
-      "boundingbox": [
-        "43.2768937",
-        "43.2775702",
-        "26.9107899",
-        "26.911793"
-      ],
-      "lat": "43.2771372",
-      "lon": "26.9111799",
-      "display_name": "Гладстон, ж.к. Боян Българанов 2, в.з. Мантово лозе, Шумен, ШУМЕН, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.21
-    },
-    {
-      "place_id": 154841732,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 278821761,
-      "boundingbox": [
-        "43.2045999",
-        "43.204693",
-        "23.5486459",
-        "23.5495429"
-      ],
-      "lat": "43.204693",
-      "lon": "23.5495429",
-      "display_name": "Гладстон, кв. 72, Враца, България",
-      "class": "highway",
-      "type": "pedestrian",
-      "importance": 0.21
-    },
-    {
-      "place_id": 118596539,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 133403929,
-      "boundingbox": [
-        "42.1929659",
-        "42.1939694",
-        "24.3343518",
-        "24.3348286"
-      ],
-      "lat": "42.1938327",
-      "lon": "24.3348286",
-      "display_name": "Гладстон, Център, Пазарджик, 4400, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.21
-    },
-    {
-      "place_id": 121957585,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 160119783,
-      "boundingbox": [
-        "42.1924567",
-        "42.1929659",
-        "24.3340131",
-        "24.3343518"
-      ],
-      "lat": "42.1929659",
-      "lon": "24.3343518",
-      "display_name": "Гладстон, Център, Пазарджик, 4400, България",
-      "class": "highway",
-      "type": "pedestrian",
-      "importance": 0.21
-    },
-    {
-      "place_id": 111849553,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 116188430,
-      "boundingbox": [
-        "43.4043757",
-        "43.4046895",
-        "23.2310461",
-        "23.2319125"
-      ],
-      "lat": "43.4044016",
-      "lon": "23.2318572",
-      "display_name": "Гладстон, кв. Огоста, Монтана, 3400, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.21
-    },
-    {
-      "place_id": 93044707,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 25783185,
-      "boundingbox": [
-        "41.8313571",
-        "41.8325181",
-        "23.4851196",
-        "23.4867112"
-      ],
-      "lat": "41.8321055",
-      "lon": "23.4856819",
-      "display_name": "Гладстон, кв.Новия град, Банско, Благоевград, 2770, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.21
-    },
-    {
-      "place_id": 95704898,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 33687054,
-      "boundingbox": [
-        "42.6218553",
-        "42.6224923",
-        "25.3783569",
-        "25.3872275"
-      ],
-      "lat": "42.6219757",
-      "lon": "25.3833076",
-      "display_name": "Гладстон, Казанлък, Стара Загора, 6100, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.21
-    },
-    {
-      "place_id": 128356137,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 177428429,
-      "boundingbox": [
-        "43.2504658",
-        "43.2511654",
-        "26.5694426",
-        "26.5708225"
-      ],
-      "lat": "43.2508871",
-      "lon": "26.5703107",
-      "display_name": "Гладстон, Бряг, Търговище, 7700, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.21
+      "importance": 0.32
     }
   ],
   [
-    {
-      "place_id": 95458189,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 38834115,
-      "boundingbox": [
-        "41.3907628",
-        "41.3913085",
-        "23.209488",
-        "23.2100198"
-      ],
-      "lat": "41.3912455",
-      "lon": "23.209488",
-      "display_name": "ул. Славянска, ж.к. Изток, Петрич, Благоевград, 2850, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 96826903,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 38834116,
-      "boundingbox": [
-        "41.3912455",
-        "41.3919253",
-        "23.2091159",
-        "23.209488"
-      ],
-      "lat": "41.3915983",
-      "lon": "23.2092291",
-      "display_name": "ул. Славянска, ж.к. Изток, Петрич, Благоевград, 2850, България",
-      "class": "highway",
-      "type": "pedestrian",
-      "importance": 0.3
-    },
-    {
-      "place_id": 127866029,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 178937018,
-      "boundingbox": [
-        "42.0510809",
-        "42.0518228",
-        "25.5803403",
-        "25.5821759"
-      ],
-      "lat": "42.0512302",
-      "lon": "25.581933",
-      "display_name": "ул.Славянска, кв. ХРИСТО БОТЕВ, Димитровград, Хасково, 6400, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 139330060,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 216509810,
-      "boundingbox": [
-        "41.8953825",
-        "41.8956487",
-        "23.1216723",
-        "23.1216797"
-      ],
-      "lat": "41.8953825",
-      "lon": "23.1216723",
-      "display_name": "ул.Славянска, кв. Ораново, мах. Оцетарска, Симитли, Благоевград, 2730, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 163416604,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 318264813,
-      "boundingbox": [
-        "43.0551341",
-        "43.0629076",
-        "26.9673162",
-        "27.0006506"
-      ],
-      "lat": "43.0581573",
-      "lon": "26.9841282",
-      "display_name": "ул. Славянска, Смядово, Шумен, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 130218712,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 179329807,
-      "boundingbox": [
-        "43.3477737",
-        "43.3525295",
-        "26.2287011",
-        "26.2325981"
-      ],
-      "lat": "43.3506955",
-      "lon": "26.2299831",
-      "display_name": "ул. Славянска, Попово, Търговище, 7800, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
     {
       "place_id": 169302063,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
@@ -1872,119 +617,65 @@
       "display_name": "ул.Славянска, Балабанчево, Славянци, Сунгурларе, Бургас, 8460, България",
       "class": "highway",
       "type": "residential",
-      "importance": 0.3
+      "importance": 0.41000000000000003
     },
     {
-      "place_id": 145563764,
+      "place_id": 167401617,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 235352345,
+      "osm_id": 356642907,
       "boundingbox": [
-        "42.3051703",
-        "42.3131896",
-        "25.5722285",
-        "25.5737659"
+        "42.7653579",
+        "42.766484",
+        "26.7358781",
+        "26.7383883"
       ],
-      "lat": "42.3084755",
-      "lon": "25.5730734",
-      "display_name": "ул.Славянска, Калояновец, Стара Загора, 6070, България",
+      "lat": "42.7661689",
+      "lon": "26.7372534",
+      "display_name": "ул.Славянска, Балабанчево, Славянци, Сунгурларе, Бургас, 8460, България",
       "class": "highway",
-      "type": "residential",
-      "importance": 0.3
-    },
-    {
-      "place_id": 145642738,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 235727461,
-      "boundingbox": [
-        "42.1965574",
-        "42.1991633",
-        "25.4515349",
-        "25.4652917"
-      ],
-      "lat": "42.1973964",
-      "lon": "25.4586411",
-      "display_name": "ул.Славянска, Гита, Чирпан, Стара Загора, България",
-      "class": "highway",
-      "type": "tertiary",
-      "importance": 0.3
-    },
-    {
-      "place_id": 145281500,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 235711363,
-      "boundingbox": [
-        "42.2199131",
-        "42.2302476",
-        "25.4260779",
-        "25.4316722"
-      ],
-      "lat": "42.2240792",
-      "lon": "25.4298227",
-      "display_name": "ул.Славянска, Свобода, Чирпан, Стара Загора, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.3
+      "type": "service",
+      "importance": 0.385
     }
   ],
   [],
   [],
   [
     {
-      "place_id": 123063650,
+      "place_id": 175294358,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 161461476,
+      "osm_id": 387830457,
       "boundingbox": [
-        "42.1955511",
-        "42.1956965",
-        "24.3342834",
-        "24.3343069"
+        "42.4979712",
+        "42.4981069",
+        "27.4714307",
+        "27.4720685"
       ],
-      "lat": "42.1955511",
-      "lon": "24.3343069",
-      "display_name": "ул. Генерал Гурко, Широк център, Пазарджик, 4400, България",
+      "lat": "42.4979712",
+      "lon": "27.4714307",
+      "display_name": "Генерал Гурко, ЦГЧ, Бургас, 8001, България",
       "class": "highway",
-      "type": "secondary",
-      "importance": 0.4
+      "type": "tertiary",
+      "importance": 0.41000000000000003
     },
     {
-      "place_id": 148554529,
+      "place_id": 176234191,
       "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
       "osm_type": "way",
-      "osm_id": 253137041,
+      "osm_id": 387830456,
       "boundingbox": [
-        "42.3883967",
-        "42.3898813",
-        "25.9989666",
-        "25.9990366"
+        "42.4975828",
+        "42.4979712",
+        "27.4696354",
+        "27.4714307"
       ],
-      "lat": "42.3898813",
-      "lon": "25.9989666",
-      "display_name": "ул.Генерал Гурко, Богданово, Нова Загора, Сливен, 8948, България",
+      "lat": "42.4975828",
+      "lon": "27.4696354",
+      "display_name": "Генерал Гурко, ЦГЧ, Бургас, 8000, България",
       "class": "highway",
-      "type": "residential",
-      "importance": 0.4
-    },
-    {
-      "place_id": 91767751,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 27910680,
-      "boundingbox": [
-        "44.1580823",
-        "44.1593676",
-        "22.7783945",
-        "22.7830515"
-      ],
-      "lat": "44.1588353",
-      "lon": "22.7802656",
-      "display_name": "ул. Генерал Гурко, Ново село, Ново Село, Видин, 3784, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.4
+      "type": "tertiary",
+      "importance": 0.41000000000000003
     }
   ],
   [],
@@ -2015,7 +706,7 @@
       "display_name": "ул. Теменуга, кв. Лозово, Бургас, 8015, България",
       "class": "highway",
       "type": "residential",
-      "importance": 0.5
+      "importance": 0.61
     }
   ],
   [],
@@ -2050,7 +741,7 @@
       "display_name": "16, ул. Бриз, кв. Крайморие, Бургас, 8014, България",
       "class": "place",
       "type": "house",
-      "importance": 0.101
+      "importance": 0.21100000000000002
     }
   ],
   [],
