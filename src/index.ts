@@ -26,7 +26,7 @@ function main() {
 
   const def = (a: string) => a ? a : 'няма данни';
 
-  const getPopupInfo = (
+  const createPopupInfo = (
     operator: string,
     object: string,
     location: string,
@@ -48,7 +48,7 @@ function main() {
     .forEach(([d, l]: Array<any>) => {
       marker([l.lat, l.lon], { icon: pin })
         .addTo(map)
-        .bindPopup(getPopupInfo(
+        .bindPopup(createPopupInfo(
           def(d.operator),
           def(d.object),
           def(d.location),
