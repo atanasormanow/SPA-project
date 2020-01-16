@@ -7,60 +7,8 @@
   [],
   [
     {
-      "place_id": 44909874,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 3298129132,
-      "boundingbox": [
-        "42.514028",
-        "42.514128",
-        "27.4500263",
-        "27.4501263"
-      ],
       "lat": "42.514078",
-      "lon": "27.4500763",
-      "display_name": "Рено, 5, Янко Комитов, Бургас, 8005, България",
-      "class": "shop",
-      "type": "car",
-      "importance": 0.42099999999999993,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/shopping_car.p.20.png"
-    },
-    {
-      "place_id": 44341812,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 3298129131,
-      "boundingbox": [
-        "42.513854",
-        "42.513954",
-        "27.4503857",
-        "27.4504857"
-      ],
-      "lat": "42.513904",
-      "lon": "27.4504357",
-      "display_name": "Нисан, 5, Янко Комитов, Бургас, 8005, България",
-      "class": "shop",
-      "type": "car",
-      "importance": 0.42099999999999993,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/shopping_car.p.20.png"
-    },
-    {
-      "place_id": 163228640,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 323015801,
-      "boundingbox": [
-        "42.5137591",
-        "42.5141831",
-        "27.4498589",
-        "27.4505657"
-      ],
-      "lat": "42.513971049999995",
-      "lon": "27.450212323298317",
-      "display_name": "Омникар Ауто, 5, Янко Комитов, Бургас, 8000, България",
-      "class": "building",
-      "type": "yes",
-      "importance": 0.42099999999999993
+      "lon": "27.4500763"
     }
   ],
   [],
@@ -109,40 +57,8 @@
   [],
   [
     {
-      "place_id": 173087610,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 380010162,
-      "boundingbox": [
-        "42.4903475",
-        "42.4905362",
-        "27.4551067",
-        "27.4560112"
-      ],
       "lat": "42.4904527",
-      "lon": "27.4555271",
-      "display_name": "Индустриална, кв. Акациите, Бургас, 8002, България",
-      "class": "highway",
-      "type": "secondary",
-      "importance": 0.42000000000000004
-    },
-    {
-      "place_id": 92176925,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 26499881,
-      "boundingbox": [
-        "42.4905362",
-        "42.4914242",
-        "27.4560112",
-        "27.4608121"
-      ],
-      "lat": "42.490785",
-      "lon": "27.4575658",
-      "display_name": "Индустриална, Бургас, 8002, България",
-      "class": "highway",
-      "type": "secondary",
-      "importance": 0.32
+      "lon": "27.4555271"
     }
   ],
   [],
@@ -151,22 +67,8 @@
   [],
   [
     {
-      "place_id": 128891322,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 176695348,
-      "boundingbox": [
-        "42.5301929",
-        "42.5316046",
-        "27.4563627",
-        "27.4586011"
-      ],
       "lat": "42.530889200000004",
-      "lon": "27.457464488135805",
-      "display_name": "Бургас Плаза, Транспортна, Бургас, 8010, България",
-      "class": "shop",
-      "type": "mall",
-      "importance": 0.33100000000000007
+      "lon": "27.457464488135805"
     }
   ],
   [],
@@ -182,23 +84,8 @@
   [],
   [
     {
-      "place_id": 59440969,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 4966055661,
-      "boundingbox": [
-        "42.5094686",
-        "42.5095686",
-        "27.4804721",
-        "27.4805721"
-      ],
       "lat": "42.5095186",
-      "lon": "27.4805221",
-      "display_name": "Хотел \"Парк\", 24-ти черноморски пехотен полк, жк Лазур, Бургас, 8001, България",
-      "class": "tourism",
-      "type": "hotel",
-      "importance": 0.21100000000000002,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/accommodation_hotel2.p.20.png"
+      "lon": "27.4805221"
     }
   ],
   [],
@@ -206,26 +93,10 @@
   [],
   [
     {
-      "place_id": 96299512,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 40506270,
-      "boundingbox": [
-        "42.511549",
-        "42.5117126",
-        "27.4684702",
-        "27.4686406"
-      ],
       "lat": "42.511630350000004",
-      "lon": "27.468555367976858",
-      "display_name": "69, Васил Петлешков, жк Лазур, Бургас, 8001, България",
-      "class": "building",
-      "type": "yes",
-      "importance": 0.32100000000000006
+      "lon": "27.468555367976858"
     }
   ],
-  [],
-  [],
   [],
   [],
   [],
@@ -248,570 +119,536 @@
   [],
   [
     {
-      "place_id": 174417691,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 380879308,
-      "boundingbox": [
-        "42.4913341",
-        "42.4916944",
-        "27.471699",
-        "27.4719174"
-      ],
-      "lat": "42.4913944",
-      "lon": "27.4718788",
-      "display_name": "Цар Петър, ЦГЧ, Бургас, 8000, България",
-      "class": "highway",
-      "type": "secondary",
-      "importance": 0.41000000000000003
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 907361,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 287669041,
-      "boundingbox": [
-        "42.4972594",
-        "42.4973594",
-        "27.4730917",
-        "27.4731917"
-      ],
-      "lat": "42.4973094",
-      "lon": "27.4731417",
-      "display_name": "пл. Баба Ганка, Славянска, ЦГЧ, Бургас, 8001, България",
-      "class": "junction",
-      "type": "yes",
-      "importance": 0.511
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 98759569,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 41283943,
-      "boundingbox": [
-        "42.5559997",
-        "42.5571297",
-        "27.6419145",
-        "27.6424583"
-      ],
-      "lat": "42.5559997",
-      "lon": "27.6419145",
-      "display_name": "Цар Асен, Стар град, Поморие, Бургас, 8200, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.41000000000000003
-    }
-  ],
-  [],
-  [],
-  [],
-  [
-    {
-      "place_id": 65785128,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 5629372695,
-      "boundingbox": [
-        "42.4930719",
-        "42.4931719",
-        "27.463705",
-        "27.463805"
-      ],
-      "lat": "42.4931219",
-      "lon": "27.463755",
-      "display_name": "Работно облекло, 24, Цар Калоян, жк Възраждане, Бургас, 8000, България",
-      "class": "shop",
-      "type": "clothes",
-      "importance": 0.42099999999999993,
-      "icon": "https://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-    },
-    {
-      "place_id": 97383425,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 40267447,
-      "boundingbox": [
-        "42.4928667",
-        "42.4934311",
-        "27.4635588",
-        "27.4638884"
-      ],
-      "lat": "42.4931489",
-      "lon": "27.4637236",
-      "display_name": "24, Цар Калоян, жк Възраждане, Бургас, 8000, България",
-      "class": "building",
-      "type": "yes",
-      "importance": 0.42099999999999993
-    },
-    {
-      "place_id": 41341428,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 3103526845,
-      "boundingbox": [
-        "42.4933366",
-        "42.4934366",
-        "27.4634863",
-        "27.4635863"
-      ],
-      "lat": "42.4933866",
-      "lon": "27.4635363",
-      "display_name": "24-4, Цар Калоян, жк Възраждане, Бургас, 8000, България",
-      "class": "place",
-      "type": "house",
-      "importance": 0.411
-    },
-    {
-      "place_id": 41332355,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 3103526844,
-      "boundingbox": [
-        "42.4928284",
-        "42.4929284",
-        "27.4636659",
-        "27.4637659"
-      ],
-      "lat": "42.4928784",
-      "lon": "27.4637159",
-      "display_name": "24-1, Цар Калоян, жк Възраждане, Бургас, 8000, България",
-      "class": "place",
-      "type": "house",
-      "importance": 0.411
-    }
-  ],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [
-    {
-      "place_id": 165624880,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 337635140,
-      "boundingbox": [
-        "42.493612",
-        "42.4963618",
-        "27.4712452",
-        "27.4725169"
-      ],
-      "lat": "42.4950693",
-      "lon": "27.471849222634468",
-      "display_name": "Александровска, ЦГЧ, Бургас, България",
-      "class": "highway",
-      "type": "pedestrian",
-      "importance": 0.32
-    },
-    {
-      "place_id": 92217371,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 26266005,
-      "boundingbox": [
-        "42.4912933",
-        "42.4936256",
-        "27.4724263",
-        "27.4733815"
-      ],
-      "lat": "42.4923486",
-      "lon": "27.4729536",
-      "display_name": "Александровска, ЦГЧ, Бургас, 8001, България",
-      "class": "highway",
-      "type": "pedestrian",
-      "importance": 0.32
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 97432374,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 40531907,
-      "boundingbox": [
-        "42.5009249",
-        "42.5010465",
-        "27.470346",
-        "27.4709188"
-      ],
-      "lat": "42.5009249",
-      "lon": "27.470346",
-      "display_name": "ул. Македония, ЦГЧ, Бургас, 8001, България",
-      "class": "highway",
-      "type": "footway",
-      "importance": 0.385
-    }
-  ],
-  [],
-  [],
-  [],
-  [
-    {
-      "place_id": 97333296,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 40558062,
-      "boundingbox": [
-        "42.491791",
-        "42.4936534",
-        "27.4759389",
-        "27.4766765"
-      ],
-      "lat": "42.4929687",
-      "lon": "27.4762101",
-      "display_name": "Антим I, ЦГЧ, Бургас, 8001, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.41000000000000003
-    },
-    {
-      "place_id": 96863817,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 40558063,
-      "boundingbox": [
-        "42.4916334",
-        "42.491791",
-        "27.4766765",
-        "27.4767486"
-      ],
-      "lat": "42.4916334",
-      "lon": "27.4767486",
-      "display_name": "Антим I, ЦГЧ, Бургас, 8001, България",
-      "class": "highway",
-      "type": "footway",
-      "importance": 0.385
-    }
-  ],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [
-    {
-      "place_id": 225844197,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 707284069,
-      "boundingbox": [
-        "42.4944722",
-        "42.4957393",
-        "27.4683333",
-        "27.4687788"
-      ],
-      "lat": "42.4951061",
-      "lon": "27.4685559",
-      "display_name": "Шейново, жк Възраждане, Бургас, 8000, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.32
-    },
-    {
-      "place_id": 177738208,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 391187831,
-      "boundingbox": [
-        "42.4942145",
-        "42.4942426",
-        "27.4687879",
-        "27.4688161"
-      ],
-      "lat": "42.4942426",
-      "lon": "27.4687879",
-      "display_name": "Шейново, жк Възраждане, Бургас, 8000, България",
-      "class": "highway",
-      "type": "pedestrian",
-      "importance": 0.32
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 174417691,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 380879308,
-      "boundingbox": [
-        "42.4913341",
-        "42.4916944",
-        "27.471699",
-        "27.4719174"
-      ],
-      "lat": "42.4913944",
-      "lon": "27.4718788",
-      "display_name": "Цар Петър, ЦГЧ, Бургас, 8000, България",
-      "class": "highway",
-      "type": "secondary",
-      "importance": 0.41000000000000003
-    }
-  ],
-  [],
-  [
-    {
-      "place_id": 16416412,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "node",
-      "osm_id": 1578794134,
-      "boundingbox": [
-        "42.4782616",
-        "42.4783616",
-        "27.4494519",
-        "27.4495519"
-      ],
-      "lat": "42.4783116",
-      "lon": "27.4495019",
-      "display_name": "Бургас - рибното пристанище, Осогово, кв. Победа, Бургас, 8120, България",
-      "class": "man_made",
-      "type": "lighthouse",
-      "importance": 0.22100000000000003
+      "lat": "42.507041",
+      "lon": "27.470614"
     }
   ],
   [
     {
-      "place_id": 96690370,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 41284020,
-      "boundingbox": [
-        "42.5578145",
-        "42.5584601",
-        "27.6391467",
-        "27.6412711"
-      ],
-      "lat": "42.5582422",
-      "lon": "27.6400932",
-      "display_name": "Гладстон, Стар град, Поморие, Бургас, 8200, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.32
+      "lat": "42.701525",
+      "lon": "23.361850"
     }
   ],
   [
     {
-      "place_id": 169302063,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 356368015,
-      "boundingbox": [
-        "42.7638673",
-        "42.7653579",
-        "26.7285965",
-        "26.7358781"
-      ],
-      "lat": "42.7642729",
-      "lon": "26.7312977",
-      "display_name": "ул.Славянска, Балабанчево, Славянци, Сунгурларе, Бургас, 8460, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.41000000000000003
-    },
-    {
-      "place_id": 167401617,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 356642907,
-      "boundingbox": [
-        "42.7653579",
-        "42.766484",
-        "26.7358781",
-        "26.7383883"
-      ],
-      "lat": "42.7661689",
-      "lon": "26.7372534",
-      "display_name": "ул.Славянска, Балабанчево, Славянци, Сунгурларе, Бургас, 8460, България",
-      "class": "highway",
-      "type": "service",
-      "importance": 0.385
+      "lat": "42.702830",
+      "lon": "23.323743"
     }
   ],
-  [],
-  [],
   [
     {
-      "place_id": 175294358,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 387830457,
-      "boundingbox": [
-        "42.4979712",
-        "42.4981069",
-        "27.4714307",
-        "27.4720685"
-      ],
-      "lat": "42.4979712",
-      "lon": "27.4714307",
-      "display_name": "Генерал Гурко, ЦГЧ, Бургас, 8001, България",
-      "class": "highway",
-      "type": "tertiary",
-      "importance": 0.41000000000000003
-    },
-    {
-      "place_id": 176234191,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 387830456,
-      "boundingbox": [
-        "42.4975828",
-        "42.4979712",
-        "27.4696354",
-        "27.4714307"
-      ],
-      "lat": "42.4975828",
-      "lon": "27.4696354",
-      "display_name": "Генерал Гурко, ЦГЧ, Бургас, 8000, България",
-      "class": "highway",
-      "type": "tertiary",
-      "importance": 0.41000000000000003
+      "lat": "42.687275",
+      "lon": "23.312592"
     }
   ],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
   [
     {
-      "place_id": 91577280,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 26185103,
-      "boundingbox": [
-        "42.5310306",
-        "42.5311228",
-        "27.4062971",
-        "27.4110285"
-      ],
-      "lat": "42.5310954",
-      "lon": "27.4090985",
-      "display_name": "ул. Теменуга, кв. Лозово, Бургас, 8015, България",
-      "class": "highway",
-      "type": "residential",
-      "importance": 0.61
+      "lat": "42.689039",
+      "lon": "23.318413"
     }
   ],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
   [
     {
-      "place_id": 1431178,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 41169164,
-      "boundingbox": [
-        "42.446574266667",
-        "42.446674266667",
-        "27.484890666667",
-        "27.484990666667"
-      ],
-      "lat": "42.44662426666667",
-      "lon": "27.484940666666667",
-      "display_name": "16, ул. Бриз, кв. Крайморие, Бургас, 8014, България",
-      "class": "place",
-      "type": "house",
-      "importance": 0.21100000000000002
+      "lat": "42.497301",
+      "lon": "27.473441"
     }
   ],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [{
-      "place_id": 1431178,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 41169164,
-      "boundingbox": [
-        "42.446574266667",
-        "42.446674266667",
-        "27.484890666667",
-        "27.484990666667"
-      ],
+  [
+    {
+      "lat": "42.501865",
+      "lon": "27.475157"
+    }
+  ],
+  [
+    {
+      "lat": "42.690096",
+      "lon": "23.318288"
+    }
+  ],
+  [
+    {
+      "lat": "42.692051",
+      "lon": "23.316835"
+    }
+  ],
+  [
+    {
+      "lat": "42.693850",
+      "lon": "23.323635"
+    }
+  ],
+  [
+    {
+      "lat": "42.498980",
+      "lon": "27.459432"
+    }
+  ],
+  [
+    {
+      "lat": "42.493420",
+      "lon": "27.463745"
+    }
+  ],
+  [
+    {
+      "lat": "42.489553",
+      "lon": "27.477772"
+    }
+  ],
+  [
+    {
+      "lat": "42.498286",
+      "lon": "27.469664"
+    }
+  ],
+  [
+    {
+      "lat": "42.498404",
+      "lon": "27.465717"
+    }
+  ],
+  [
+    {
+      "lat": "42.495864",
+      "lon": "27.471346"
+    }
+  ],
+  [
+    {
+      "lat": "42.502637",
+      "lon": "27.468659"
+    }
+  ],
+  [
+    {
+      "lat": "43.204221",
+      "lon": "27.913462"
+    }
+  ],
+  [
+    {
+      "lat": "42.496910",
+      "lon": "27.470787"
+    }
+  ],
+  [
+    {
+      "lat": "42.497658",
+      "lon": "27.469097"
+    }
+  ],
+  [
+    {
+      "lat": "42.499975",
+      "lon": "27.464543"
+    }
+  ],
+  [
+    {
+      "lat": "42.503738",
+      "lon": "27.468987"
+    }
+  ],
+  [
+    {
+      "lat": "42.497776",
+      "lon": "27.461928"
+    }
+  ],
+  [
+    {
+      "lat": "42.492353",
+      "lon": "27.481402"
+    }
+  ],
+  [
+    {
+      "lat": "42.700196",
+      "lon": "23.314084"
+    }
+  ],
+  [
+    {
+      "lat": "42.494361",
+      "lon": "27.473191"
+    }
+  ],
+  [
+    {
+      "lat": "42.501833",
+      "lon": "27.475103"
+    }
+  ],
+  [
+    {
+      "lat": "42.492593",
+      "lon": "27.465558"
+    }
+  ],
+  [
+    {
+      "lat": "42.688364",
+      "lon": "23.331012"
+    }
+  ],
+  [
+    {
+      "lat": "42.702877",
+      "lon": "23.323743"
+    }
+  ],
+  [
+    {
+      "lat": "42.497961",
+      "lon": "27.461567"
+    }
+  ],
+  [
+    {
+      "lat": "42.496047",
+      "lon": "27.471317"
+    }
+  ],
+  [
+    {
+      "lat": "42.491983",
+      "lon": "27.469901"
+    }
+  ],
+  [
+    {
+      "lat": "42.492856",
+      "lon": "27.480753"
+    }
+  ],
+  [
+    {
+      "lat": "42.688677",
+      "lon": "23.314566"
+    }
+  ],
+  [
+    {
+      "lat": "42.494635",
+      "lon": "27.469466"
+    }
+  ],
+  [
+    {
+      "lat": "42.489546",
+      "lon": "27.477836"
+    }
+  ],
+  [
+    {
+      "lat": "42.498323",
+      "lon": "27.464792"
+    }
+  ],
+  [
+    {
+      "lat": "42.494843",
+      "lon": "27.476054"
+    }
+  ],
+  [
+    {
+      "lat": "42.501589",
+      "lon": "27.462049"
+    }
+  ],
+  [
+    {
+      "lat": "42.501873",
+      "lon": "27.475157"
+    }
+  ],
+  [
+    {
+      "lat": "42.498776",
+      "lon": "27.473154"
+    }
+  ],
+  [
+    {
+      "lat": "42.497921",
+      "lon": "27.476218"
+    }
+  ],
+  [
+    {
+      "lat": "42.492646",
+      "lon": "27.480499"
+    }
+  ],
+  [
+    {
+      "lat": "42.696264",
+      "lon": "23.323069"
+    }
+  ],
+  [
+    {
+      "lat": "42.489448",
+      "lon": "27.476623"
+    }
+  ],
+  [
+    {
+      "lat": "42.565294",
+      "lon": "27.515422"
+    }
+  ],
+  [
+    {
+      "lat": "42.566124",
+      "lon": "27.516119"
+    }
+  ],
+  [
+    {
+      "lat": "42.561278",
+      "lon": "27.522763"
+    }
+  ],
+  [
+    {
+      "lat": "42.563330",
+      "lon": "27.520766"
+    }
+  ],
+  [
+    {
+      "lat": "42.558784",
+      "lon": "27.517670"
+    }
+  ],
+  [
+    {
+      "lat": "42.565571",
+      "lon": "27.514832"
+    }
+  ],
+  [
+    {
+      "lat": "42.562638",
+      "lon": "27.532637"
+    }
+  ],
+  [
+    {
+      "lat": "42.531491",
+      "lon": "27.410824"
+    }
+  ],
+  [
+    {
+      "lat": "42.533294",
+      "lon": "27.405780"
+    }
+  ],
+  [
+    {
+      "lat": "42.485196",
+      "lon": "27.378694"
+    }
+  ],
+  [
+    {
+      "lat": "42.497764",
+      "lon": "27.470013"
+    }
+  ],
+  [
+    {
+      "lat": "42.517529",
+      "lon": "27.374007"
+    }
+  ],
+  [
+    {
+      "lat": "42.485798",
+      "lon": "27.379200"
+    }
+  ],
+  [
+    {
+      "lat": "42.518672",
+      "lon": "27.370321"
+    }
+  ],
+  [
+    {
+      "lat": "42.497329",
+      "lon": "27.470314"
+    }
+  ],
+  [
+    {
+      "lat": "42.603937",
+      "lon": "27.383281"
+    }
+  ],
+  [
+    {
+      "lat": "42.626296",
+      "lon": "27.391146"
+    }
+  ],
+  [
+    {
+      "lat": "42.605433",
+      "lon": "25.686654"
+    }
+  ],
+  [
+    {
+      "lat": "42.408922",
+      "lon": "27.483513"
+    }
+  ],
+  [
+    {
+      "lat": "42.397397",
+      "lon": "27.485954"
+    }
+  ],
+  [
+    {
+      "lat": "42.396097",
+      "lon": "27.488056"
+    }
+  ],
+  [
+    {
+      "lat": "42.446643",
+      "lon": "27.484956"
+    }
+  ],
+  [
+    {
+      "lat": "42.446778",
+      "lon": "27.474980"
+    }
+  ],
+  [
+    {
+      "lat": "42.446744",
+      "lon": "27.485048"
+    }
+  ],
+  [
+    {
+      "lat": "42.430435",
+      "lon": "27.544607"
+    }
+  ],
+  [
+    {
+      "lat": "42.445034",
+      "lon": "27.486622"
+    }
+  ],
+  [
+    {
+      "lat": "42.447570",
+      "lon": "27.555849"
+    }
+  ],
+  [
+    {
+      "lat": "42.390638",
+      "lon": "27.531033"
+    }
+  ],
+  [
+    {
+      "lat": "42.440173",
+      "lon": "27.531671"
+    }
+  ],
+  [
+    {
+      "lat": "42.445145",
+      "lon": "27.486708"
+    }
+  ],
+  [
+    {
+      "lat": "42.515946",
+      "lon": "27.246253"
+    }
+  ],
+  [
+    {
+      "lat": "42.646530",
+      "lon": "25.819821"
+    }
+  ],
+  [
+    {
+      "lat": "42.514333",
+      "lon": "27.241168"
+    }
+  ],
+  [
+    {
+      "lat": "42.628482",
+      "lon": "27.492326"
+    }
+  ],
+  [
+    {
+      "lat": "42.626741",
+      "lon": "27.488727"
+    }
+  ],
+  [
+    {
+      "lat": "42.625324",
+      "lon": "27.486963"
+    }
+  ],
+  [
+    {
+      "lat": "42.511014",
+      "lon": "27.481093"
+    }
+  ],
+  [
+    {
+      "lat": "42.667851",
+      "lon": "27.466828"
+    }
+  ],
+  [
+    {
+      "lat": "42.619989",
+      "lon": "27.314442"
+    }
+  ],
+  [
+    {
+      "lat": "42.620944",
+      "lon": "27.306514"
+    }
+  ],
+  [
+    {
       "lat": "42.611591",
-      "lon": "27.311256",
-      "display_name": "Имот 000328, Землището на гр. Българово", 
-      "class": "place",
-      "type": "house",
-      "importance": 0.21100000000000002
-    }],
-  [{
-      "place_id": 1431178,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 41169164,
-      "boundingbox": [
-        "42.446574266667",
-        "42.446674266667",
-        "27.484890666667",
-        "27.484990666667"
-      ],
+      "lon": "27.311256"
+    }
+  ],
+  [
+    {
       "lat": "42.620882",
-      "lon": "27.304004",
-      "display_name": "ТВРС на БТК, Българово, имот 000309, м.Ташлъците",
-      "class": "place",
-      "type": "house",
-      "importance": 0.21100000000000002
-    }],
-  [{
-      "place_id": 1431178,
-      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
-      "osm_type": "way",
-      "osm_id": 41169164,
-      "boundingbox": [
-        "42.446574266667",
-        "42.446674266667",
-        "27.484890666667",
-        "27.484990666667"
-      ],
+      "lon": "27.304004"
+    }
+  ],
+  [
+    {
       "lat": "42.671494",
-      "lon": "27.464601",
-      "display_name":"с.Брястовец, ЗКПУ Съгласие", 
-      "class": "place",
-      "type": "house",
-      "importance": 0.21100000000000002
-    }]
+      "lon": "27.464601"
+    }
+  ]
 ]

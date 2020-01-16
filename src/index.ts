@@ -32,7 +32,7 @@ function main() {
 
   const filtered: Array<any> =
     zipped
-      .filter(([d, l]) => l.length)
+      .filter(([_, l]) => l.length)
       .map(([d, l]) => [d, l[0]]);
 
   // Doesn't work
