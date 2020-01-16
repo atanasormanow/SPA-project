@@ -17,7 +17,6 @@ type Location = {
   lon: number,
   icon: string,
 }
-
 var map = leaflet.map('mapid').setView([42.698334, 23.318841], 13);
 const provider = new OpenStreetMapProvider();
 
@@ -37,7 +36,9 @@ function main() {
       .map(([d, l]) => [d, l[0]]);
 
   // Doesn't work
-  const pin = leaflet.icon({iconUrl: '../static/pin.png'})
+  const pin = leaflet.icon({iconUrl: 'https://cdn2.iconfinder.com/data/icons/color-svg-vector-icons-2/512/map_marker_base-256.png',
+    iconSize:     [50, 50], // size of the icon
+  });
   filtered
     .forEach(([d, l]: Array<any>) => marker([l.lat, l.lon], {icon: pin})
       .addTo(map)

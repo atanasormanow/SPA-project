@@ -760,7 +760,58 @@
   [],
   [],
   [],
-  [],
-  [],
-  []
+  [{
+      "place_id": 1431178,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 41169164,
+      "boundingbox": [
+        "42.446574266667",
+        "42.446674266667",
+        "27.484890666667",
+        "27.484990666667"
+      ],
+      "lat": "42.611591",
+      "lon": "27.311256",
+      "display_name": "Имот 000328, Землището на гр. Българово", 
+      "class": "place",
+      "type": "house",
+      "importance": 0.21100000000000002
+    }],
+  [{
+      "place_id": 1431178,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 41169164,
+      "boundingbox": [
+        "42.446574266667",
+        "42.446674266667",
+        "27.484890666667",
+        "27.484990666667"
+      ],
+      "lat": "42.620882",
+      "lon": "27.304004",
+      "display_name": "ТВРС на БТК, Българово, имот 000309, м.Ташлъците",
+      "class": "place",
+      "type": "house",
+      "importance": 0.21100000000000002
+    }],
+  [{
+      "place_id": 1431178,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 41169164,
+      "boundingbox": [
+        "42.446574266667",
+        "42.446674266667",
+        "27.484890666667",
+        "27.484990666667"
+      ],
+      "lat": "42.671494",
+      "lon": "27.464601",
+      "display_name":"с.Брястовец, ЗКПУ Съгласие", 
+      "class": "place",
+      "type": "house",
+      "importance": 0.21100000000000002
+    }]
 ]
